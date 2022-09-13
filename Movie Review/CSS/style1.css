@@ -1,0 +1,62 @@
+h1 {text-align: center;
+    color: #800080;
+}
+h2 {color: #800080;}
+h3 {text-align: center;
+    color: #800080
+}
+h4 {color: #800080;}
+h5 {color: #800080;}
+h6 {color: #800080;}
+
+p {
+    font-family: "Times New Roman", Times, serif 
+}
+
+body {
+    background-color: #3b3b3b;
+}
+
+a {
+    color: #00FF00;
+}
+.movieCover {
+    justify-content: left;
+    padding-left: 100px;
+    vertical-align: top;
+    display: inline-block;
+}
+
+.reviewText {
+    vertical-align: top;
+    text-align: left;
+    display: inline-block;
+    padding-left: 50px;
+    padding-top: 150px;
+}
+
+.homeButton {
+    text-align: center;
+}
+
+.pyramid {
+    text-align: center;
+    margin-bottom: auto;
+}
+
+.images {
+    display: inline-block;
+    width: 24%;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.linkList {
+    background-color: #5c5c5c;
+    margin: 11px;
+    color: #cce5ff;
+}
+
+.reviewCovers {
+    height: 500px;
+}
